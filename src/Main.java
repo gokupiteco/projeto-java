@@ -11,7 +11,7 @@ byte alunos;
         System.out.println("digite  seu numero na chamada");
         alunos = sc.nextByte();
 
-        System.out.println("branch teste2:Digite sua nota da primeira  prova");
+        System.out.println("texto para gerar conflito");
         n_nota1 = sc.nextFloat();
 
 
