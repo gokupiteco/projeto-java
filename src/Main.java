@@ -11,7 +11,7 @@ byte alunos;
         System.out.println("digite  seu numero na chamada");
         alunos = sc.nextByte();
 
-        System.out.println("Digite sua nota da primeira  prova");
+        System.out.println("branch teste1:Digite sua nota da primeira  prova");
         n_nota1 = sc.nextFloat();
 
 
