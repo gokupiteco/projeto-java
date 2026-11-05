@@ -12,6 +12,8 @@ byte alunos;
         alunos = sc.nextByte();
 
         System.out.println("texto para gerar conflito");
+        System.out.println("Texto da Teste2 para dar o conflito");
+
         n_nota1 = sc.nextFloat();
 
 
